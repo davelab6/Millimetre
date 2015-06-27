@@ -1,0 +1,1 @@
+Copyright (c) 2015, Jérémy Landes-Nones <triple@jjllnn.fr>
