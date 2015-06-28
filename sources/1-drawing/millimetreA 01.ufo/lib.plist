@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.typemytype.robofont.background.layerShow</key>
+	<true/>
+	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
+	<false/>
+	<key>com.typemytype.robofont.background.layerShowFill</key>
+	<false/>
+	<key>com.typemytype.robofont.background.layerShowPoints</key>
+	<true/>
+	<key>com.typemytype.robofont.background.layerShowStroke</key>
+	<true/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
 		<real>0.0</real>
@@ -20,32 +30,17 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/domitille/ownCloud/Typo/millimetre/fontes/millimetreA 03.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/1-drawing/millimetreA 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.foreground.layerShow</key>
+	<true/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
 		<real>0.7</real>
-	</array>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>accents cap</string>
-			<key>x</key>
-			<integer>550</integer>
-			<key>y</key>
-			<integer>800</integer>
-		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>

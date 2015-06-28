@@ -18,10 +18,6 @@
 	<string>E_.glif</string>
 	<key>Eacute</key>
 	<string>Eacute_.glif</string>
-	<key>Ecircumflex</key>
-	<string>Ecircumflex_.glif</string>
-	<key>Edieresis</key>
-	<string>Edieresis_.glif</string>
 	<key>Egrave</key>
 	<string>Egrave_.glif</string>
 	<key>F</key>
@@ -80,6 +76,8 @@
 	<string>ae.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
 	<key>b</key>
@@ -178,6 +176,8 @@
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>quotedbl</key>
+	<string>quotedbl.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
 	<key>quotesingle</key>
@@ -204,6 +204,8 @@
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>underscore</key>
+	<string>underscore.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>

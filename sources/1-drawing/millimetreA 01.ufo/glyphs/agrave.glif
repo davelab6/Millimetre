@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="1">
-  <advance width="400"/>
+  <advance width="600"/>
   <unicode hex="00E0"/>
   <outline>
     <component base="Aacute"/>
     <component base="a"/>
-    <component base="grave" xOffset="80"/>
+    <component base="grave" xOffset="180"/>
   </outline>
   <lib>
     <dict>
@@ -31,16 +31,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>600</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4809</real>
-        <real>1.0</real>
-        <real>0.7016</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
