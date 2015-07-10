@@ -3,7 +3,6 @@
   <advance width="600"/>
   <unicode hex="00E0"/>
   <outline>
-    <component base="Aacute"/>
     <component base="a"/>
     <component base="grave" xOffset="180"/>
   </outline>

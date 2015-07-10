@@ -3,7 +3,6 @@
   <advance width="600"/>
   <unicode hex="00E2"/>
   <outline>
-    <component base="Aacute"/>
     <component base="a"/>
     <component base="circumflex" xOffset="200"/>
   </outline>
