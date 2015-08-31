@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="400"/>
+  <advance width="600"/>
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>600</integer>
         </dict>
       </dict>
     </dict>
