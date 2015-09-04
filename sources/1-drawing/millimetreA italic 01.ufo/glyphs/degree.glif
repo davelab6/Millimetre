@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ordmasculine" format="1">
+<glyph name="degree" format="1">
   <advance width="400"/>
-  <unicode hex="00BA"/>
+  <unicode hex="00B0"/>
   <outline>
     <contour>
       <point x="260" y="560" type="curve" smooth="yes"/>
@@ -55,7 +55,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ordmasculine</string>
+          <string>degree</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -63,13 +63,6 @@
           <integer>400</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
