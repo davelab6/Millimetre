@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.typemytype.robofont.background.layerShow</key>
+	<true/>
 	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowFill</key>
@@ -28,16 +30,10 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/fontes/millimetreA 02.otf</string>
+	<string>/Users/jjjlllnnn/ownCloud/Typo/millimetre/sources/2-otf/millimetreA Bold 01.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
-	<false/>
-	<key>com.typemytype.robofont.foreground.layerShowFill</key>
-	<false/>
-	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
-	<false/>
-	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
+	<key>com.typemytype.robofont.foreground.layerShow</key>
 	<true/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
@@ -45,6 +41,23 @@
 		<real>0.0</real>
 		<real>0.5</real>
 		<real>0.7</real>
+	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>depassantes sup</string>
+			<key>x</key>
+			<integer>235</integer>
+			<key>y</key>
+			<integer>390</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -86,6 +99,7 @@
 				<string>Iacute</string>
 				<string>Icircumflex</string>
 				<string>Idieresis</string>
+				<string>Itilde</string>
 				<string>J</string>
 				<string>K</string>
 				<string>L</string>
@@ -108,11 +122,15 @@
 				<string>Uacute</string>
 				<string>Ucircumflex</string>
 				<string>Udieresis</string>
+				<string>Utilde</string>
 				<string>V</string>
 				<string>W</string>
 				<string>X</string>
 				<string>Y</string>
 				<string>Yacute</string>
+				<string>Ycircumflex</string>
+				<string>Ydieresis</string>
+				<string>Ygrave</string>
 				<string>Z</string>
 				<string>AE</string>
 				<string>Eth</string>
@@ -143,6 +161,7 @@
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
+				<string>itilde</string>
 				<string>j</string>
 				<string>k</string>
 				<string>l</string>
@@ -165,12 +184,15 @@
 				<string>uacute</string>
 				<string>ucircumflex</string>
 				<string>udieresis</string>
+				<string>utilde</string>
 				<string>v</string>
 				<string>w</string>
 				<string>x</string>
 				<string>y</string>
 				<string>yacute</string>
 				<string>ydieresis</string>
+				<string>ycircumflex</string>
+				<string>ygrave</string>
 				<string>z</string>
 				<string>ordfeminine</string>
 				<string>ordmasculine</string>
@@ -229,6 +251,7 @@
 				<string>section</string>
 				<string>paragraph</string>
 				<string>periodcentered</string>
+				<string>bullet</string>
 				<string>plus</string>
 				<string>minus</string>
 				<string>plusminus</string>
@@ -261,10 +284,30 @@
 				<string>copyright</string>
 				<string>registered</string>
 				<string>degree</string>
+				<string>dotlessj</string>
 				<string>onesuperior</string>
 				<string>threesuperior</string>
 				<string>twosuperior</string>
-				<string>bullet</string>
+				<string>one.sup</string>
+				<string>two.sup</string>
+				<string>three.sup</string>
+				<string>four.sup</string>
+				<string>five.sup</string>
+				<string>six.sup</string>
+				<string>seven.sup</string>
+				<string>eight.sup</string>
+				<string>nine.sup</string>
+				<string>zero.sup</string>
+				<string>VTF2</string>
+				<string>VTF</string>
+				<string>Square_with_Vertical_Fill</string>
+				<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
+				<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
+				<string>Square_with_Horizontal_Fill</string>
+				<string>white_large_square</string>
+				<string>black_large_square</string>
+				<string>Square_with_Upper_Right_To_Lower_Left_Fill</string>
+				<string>hashed_large_square</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -297,6 +340,7 @@
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Itilde</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
@@ -319,11 +363,15 @@
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
+		<string>Utilde</string>
 		<string>V</string>
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Yacute</string>
+		<string>Ycircumflex</string>
+		<string>Ydieresis</string>
+		<string>Ygrave</string>
 		<string>Z</string>
 		<string>AE</string>
 		<string>Eth</string>
@@ -354,6 +402,7 @@
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>itilde</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
@@ -376,12 +425,15 @@
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
+		<string>utilde</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
 		<string>y</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
 		<string>z</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
@@ -440,6 +492,7 @@
 		<string>section</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
+		<string>bullet</string>
 		<string>plus</string>
 		<string>minus</string>
 		<string>plusminus</string>
@@ -472,10 +525,30 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>degree</string>
+		<string>dotlessj</string>
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
-		<string>bullet</string>
+		<string>one.sup</string>
+		<string>two.sup</string>
+		<string>three.sup</string>
+		<string>four.sup</string>
+		<string>five.sup</string>
+		<string>six.sup</string>
+		<string>seven.sup</string>
+		<string>eight.sup</string>
+		<string>nine.sup</string>
+		<string>zero.sup</string>
+		<string>VTF2</string>
+		<string>VTF</string>
+		<string>Square_with_Vertical_Fill</string>
+		<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
+		<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
+		<string>Square_with_Horizontal_Fill</string>
+		<string>white_large_square</string>
+		<string>black_large_square</string>
+		<string>Square_with_Upper_Right_To_Lower_Left_Fill</string>
+		<string>hashed_large_square</string>
 	</array>
 </dict>
 </plist>

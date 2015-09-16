@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Square_with_Vertical_Fill" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="150" y="-100" type="line"/>
+      <point x="150" y="600" type="line"/>
+      <point x="850" y="600" type="line"/>
+      <point x="850" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-200" type="line"/>
+      <point x="950" y="-200" type="line"/>
+      <point x="950" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="-150" type="line"/>
+      <point x="550" y="650" type="line"/>
+      <point x="450" y="650" type="line"/>
+      <point x="450" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="-150" type="line"/>
+      <point x="350" y="650" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="250" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="-150" type="line"/>
+      <point x="750" y="650" type="line"/>
+      <point x="650" y="650" type="line"/>
+      <point x="650" y="-150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Square_with_Vertical_Fill</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1000</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

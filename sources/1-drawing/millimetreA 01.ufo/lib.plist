@@ -300,6 +300,14 @@
 				<string>zero.sup</string>
 				<string>VTF2</string>
 				<string>VTF</string>
+				<string>Square_with_Vertical_Fill</string>
+				<string>Box_Drawings_Heavy_Vertical_and_Horizontal</string>
+				<string>Square_with_Upper_Left_To_Lower_Right_Fill</string>
+				<string>Square_with_Horizontal_Fill</string>
+				<string>white_large_square</string>
+				<string>black_large_square</string>
+				<string>Square_with_Upper_Right_To_Lower_Left_Fill</string>
+				<string>hashed_large_square</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
