@@ -1,0 +1,4 @@
+salt{
+    sub a by a.alt
+    sub g by g.alt;
+    }

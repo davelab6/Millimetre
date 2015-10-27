@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="200"/>
+  <advance width="250"/>
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="200" y="0" type="line"/>
-      <point x="100" y="700" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="150" y="700" type="line"/>
       <point x="0" y="700" type="line"/>
       <point x="100" y="0" type="line"/>
     </contour>
@@ -34,9 +34,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>200</integer>
+          <integer>250</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5569</real>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,13 @@
+feature ss01{
+    sub a by a.alt;
+    }ss01;
+    
+feature ss02{
+    lookup g_alt {
+        sub g by g.alt;
+        } g_alt;
+    }ss02;
+    
+feature salt{
+    lookup g_alt;
+    }salt;

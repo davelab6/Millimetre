@@ -1,63 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="1">
-  <advance width="600"/>
+  <advance width="950"/>
   <unicode hex="0152"/>
   <outline>
     <contour>
-      <point x="250" y="560" type="curve" smooth="yes"/>
-      <point x="250" y="140" type="line" smooth="yes"/>
-      <point x="250" y="100"/>
-      <point x="230" y="90"/>
-      <point x="200" y="90" type="curve"/>
-      <point x="170" y="90"/>
-      <point x="150" y="100"/>
-      <point x="150" y="140" type="curve" smooth="yes"/>
-      <point x="150" y="560" type="line" smooth="yes"/>
-      <point x="150" y="600"/>
-      <point x="170" y="610"/>
-      <point x="200" y="610" type="curve"/>
-      <point x="230" y="610"/>
-      <point x="250" y="600"/>
-    </contour>
-    <contour>
-      <point x="350" y="140" type="curve" smooth="yes"/>
-      <point x="350" y="560" type="line"/>
-      <point x="350" y="650"/>
-      <point x="280" y="710"/>
-      <point x="200" y="710" type="curve"/>
-      <point x="120" y="710"/>
-      <point x="50" y="650"/>
-      <point x="50" y="560" type="curve"/>
-      <point x="50" y="140" type="line"/>
-      <point x="50" y="50"/>
-      <point x="120" y="-10"/>
-      <point x="200" y="-10" type="curve"/>
-      <point x="280" y="-10"/>
-      <point x="350" y="50"/>
-    </contour>
-    <contour>
-      <point x="250" y="0" type="line"/>
-      <point x="350" y="0" type="line"/>
-      <point x="350" y="700" type="line"/>
-      <point x="250" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
       <point x="550" y="0" type="line"/>
-      <point x="550" y="100" type="line"/>
-      <point x="300" y="100" type="line"/>
-    </contour>
-    <contour>
-      <point x="300" y="600" type="line"/>
-      <point x="550" y="600" type="line"/>
       <point x="550" y="700" type="line"/>
-      <point x="300" y="700" type="line"/>
+      <point x="400" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="300" y="400" type="line"/>
-      <point x="500" y="400" type="line"/>
-      <point x="500" y="500" type="line"/>
-      <point x="300" y="500" type="line"/>
+      <point x="270" y="0" type="curve" smooth="yes"/>
+      <point x="455" y="0" type="line"/>
+      <point x="475" y="150" type="line"/>
+      <point x="300" y="150" type="line"/>
+      <point x="220" y="150"/>
+      <point x="200" y="170"/>
+      <point x="200" y="240" type="curve" smooth="yes"/>
+      <point x="200" y="350" type="line"/>
+      <point x="50" y="350" type="line"/>
+      <point x="50" y="245" type="line"/>
+      <point x="50" y="70"/>
+      <point x="130" y="0"/>
+    </contour>
+    <contour>
+      <point x="270" y="700" type="line"/>
+      <point x="130" y="700"/>
+      <point x="50" y="630"/>
+      <point x="50" y="455" type="curve"/>
+      <point x="50" y="350" type="line"/>
+      <point x="200" y="350" type="line"/>
+      <point x="200" y="460" type="line" smooth="yes"/>
+      <point x="200" y="530"/>
+      <point x="220" y="550"/>
+      <point x="300" y="550" type="curve"/>
+      <point x="465" y="550" type="line"/>
+      <point x="465" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="line"/>
+      <point x="900" y="0" type="line"/>
+      <point x="900" y="150" type="line"/>
+      <point x="450" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="550" type="line"/>
+      <point x="900" y="550" type="line"/>
+      <point x="900" y="700" type="line"/>
+      <point x="450" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="300" type="line"/>
+      <point x="850" y="300" type="line"/>
+      <point x="850" y="450" type="line"/>
+      <point x="450" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="665" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -84,9 +86,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>600</integer>
+          <integer>950</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4809</real>
+        <real>1.0</real>
+        <real>0.7016</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

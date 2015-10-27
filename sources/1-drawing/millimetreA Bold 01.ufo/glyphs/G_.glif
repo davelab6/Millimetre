@@ -36,11 +36,12 @@
       <point x="300" y="350" type="line"/>
     </contour>
     <contour>
-      <point x="550" y="285" type="line"/>
-      <point x="400" y="285" type="line"/>
-      <point x="400" y="80" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
+      <point x="540" y="200" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="400.0" y="80.0" type="line"/>
+      <point x="410.0" y="0.0" type="line"/>
+      <point x="550.0" y="0.0" type="line"/>
+      <point x="550.0" y="102.0" type="line"/>
     </contour>
     <contour>
       <point x="200" y="240" type="curve"/>

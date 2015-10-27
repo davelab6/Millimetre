@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="400"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="10" y="265" type="line"/>
+      <point x="10" y="240" type="line"/>
+      <point x="125" y="255" type="line"/>
+      <point x="160" y="275" type="line"/>
+      <point x="375" y="485" type="line"/>
+      <point x="375" y="500" type="line"/>
+      <point x="245" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="235" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="15" type="line"/>
+      <point x="160" y="225" type="line"/>
+      <point x="125" y="245" type="line"/>
+      <point x="125" y="270" type="line"/>
+      <point x="10" y="260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>less</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>400</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

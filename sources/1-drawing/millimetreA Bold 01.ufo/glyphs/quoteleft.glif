@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-  <advance width="200"/>
+  <advance width="250"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="150" y="600" type="line"/>
-      <point x="130" y="600" type="line"/>
-      <point x="130" y="700" type="line"/>
-      <point x="80" y="700" type="line"/>
-      <point x="50" y="550" type="line"/>
-      <point x="50" y="500" type="line"/>
-      <point x="150" y="500" type="line"/>
+      <point x="200" y="550" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50" y="600" type="line"/>
+      <point x="95" y="450" type="line"/>
+      <point x="170" y="450" type="line"/>
+      <point x="170" y="550" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,9 +37,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>200</integer>
+          <integer>250</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

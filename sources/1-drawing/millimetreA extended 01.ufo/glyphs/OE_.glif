@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="600"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="250" y="560" type="curve" smooth="yes"/>
+      <point x="250" y="140" type="line" smooth="yes"/>
+      <point x="250" y="100"/>
+      <point x="230" y="90"/>
+      <point x="200" y="90" type="curve"/>
+      <point x="170" y="90"/>
+      <point x="150" y="100"/>
+      <point x="150" y="140" type="curve" smooth="yes"/>
+      <point x="150" y="560" type="line" smooth="yes"/>
+      <point x="150" y="600"/>
+      <point x="170" y="610"/>
+      <point x="200" y="610" type="curve"/>
+      <point x="230" y="610"/>
+      <point x="250" y="600"/>
+    </contour>
+    <contour>
+      <point x="350" y="140" type="curve" smooth="yes"/>
+      <point x="350" y="560" type="line"/>
+      <point x="350" y="650"/>
+      <point x="280" y="710"/>
+      <point x="200" y="710" type="curve"/>
+      <point x="120" y="710"/>
+      <point x="50" y="650"/>
+      <point x="50" y="560" type="curve"/>
+      <point x="50" y="140" type="line"/>
+      <point x="50" y="50"/>
+      <point x="120" y="-10"/>
+      <point x="200" y="-10" type="curve"/>
+      <point x="280" y="-10"/>
+      <point x="350" y="50"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="600" type="line"/>
+      <point x="550" y="600" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="400" type="line"/>
+      <point x="500" y="400" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="300" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>600</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

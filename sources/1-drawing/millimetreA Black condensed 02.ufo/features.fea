@@ -1,0 +1,3 @@
+feature ss01{
+    sub a by a.alt;
+    }
